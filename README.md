@@ -1,3 +1,10 @@
+
+## Contributors :<br>
+*1.Jash Shah*<br>
+*2.Aditya Ajay*<br>
+*3.Rishu Kumar*
+
+
 # 🦉 OwlCV — Smart Resume Builder
 
 <img width="1909" height="967" alt="image" src="https://github.com/user-attachments/assets/178333c9-a704-40d4-a4b9-7433c50511e5" />
